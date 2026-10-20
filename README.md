@@ -66,7 +66,7 @@ python gui_calculator.py
 
 ## Screenshots
 
-![GUI Calculator](screenshots/gui-calculator.png)
+![GUI Calculator](Screenshot_GUI.png)
 
 ## Author
 
